@@ -14,4 +14,4 @@
 
 Este repositório será utilizado para aplicar os conhecimentos da disciplina Interação Humano Computador (2020/1 - Universidade de Brasília). O site selecionado para se propor melhorias de usabilidade foi o do Corpo de Bombeiros Militar Do Distrito Federal ([CBMDF](https://www.cbm.df.gov.br/)).
 
-![](https://github.com/Interacao-Humano-Computador/2020.1-Corpo-De-Bombeiros-Militar-Do-Distrito-Federal/blob/master/%C3%ADcone.jpg?raw=true)  
+![](https://github.com/Interacao-Humano-Computador/2020.1-Corpo-De-Bombeiros-Militar-Do-Distrito-Federal/blob/master/docs/images/%C3%ADcone.jpg?raw=true)  
