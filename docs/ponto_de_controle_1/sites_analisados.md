@@ -4,9 +4,9 @@ Como proposto pela disciplina Interação Humano Computador, cada integrante do 
 
 |Site Avaliado | Link |Nome |
 |----------------|-------|-------------|
-| Portal do Documento Eletrônico do Contribuinte - DEC |[DEC](dec.fazenda.df.gov.br) |@paulohgontijoo|
-| Corpo de Bombeiros Militar do DF | [CBMDF](https://www.cbm.df.gov.br/)|@lucaskishima |
-| Camara Legislativa do DF | [CLDF](https://www.cl.df.gov.br/) | @danieloda|
+| Portal do Documento Eletrônico do Contribuinte - DEC |[DEC](dec.fazenda.df.gov.br) |[@paulohgontijoo](https://github.com/paulohgontijoo)|
+| Corpo de Bombeiros Militar do DF | [CBMDF](https://www.cbm.df.gov.br/)|[@lucaskishima](https://github.com/lucaskishima)  |
+| Camara Legislativa do DF | [CLDF](https://www.cl.df.gov.br/) |[@danieloda](https://github.com/danieloda)|
 
 
 
