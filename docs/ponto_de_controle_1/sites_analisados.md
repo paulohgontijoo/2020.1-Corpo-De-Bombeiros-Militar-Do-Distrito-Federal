@@ -3,7 +3,7 @@
 ## Histórico de Versão 
 | Data | Descrição | Versão | Autores |
 | -------- | -------- | -------- | -------- |
-| 20/09/2020 | Listagem de ferramentas utilizadas pelo grupo | 0.1 | Daniel Oda, Lucas Kishima, Paulo Gontijo |
+| 20/09/2020 | Listagem de sites individuais | 0.1 | Daniel Oda, Lucas Kishima, Paulo Gontijo |
 
 ## Análises individuais
 Como proposto pela disciplina Interação Humano Computador, cada integrante do grupo realizou uma avaliação individual de algum **site** a sua escolha. Segue abaixo a tabela dos sites avaliados:
