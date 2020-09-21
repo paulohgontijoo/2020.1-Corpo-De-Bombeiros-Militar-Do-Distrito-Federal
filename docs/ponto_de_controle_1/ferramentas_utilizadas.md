@@ -4,6 +4,8 @@
 | Data | Descrição | Versão | Autores |
 | -------- | -------- | -------- | -------- |
 | 20/09/2020 | Listagem de ferramentas utilizadas pelo grupo | 0.1 | Daniel Oda, Lucas Kishima, Paulo Gontijo |
+| 21/09/2020 | Adição de ferramenta git | 0.2 | Tâmara Barbosa Tavares |
+
 
 ## Ferramentas
 | Ferramenta | Motivo |
@@ -13,3 +15,4 @@
 |![](https://i.imgur.com/zJ3fqvD.png)| **Hackmd** é uma plataforma online de edição de documentos em Markdown. Tem por vantagem a edição simultânea por diversas pessoas|
 |![](https://i.imgur.com/zHzB6l8.png)| **Discord** é um aplicativo online que possibilita reuniões em tempo real com integrantes de um canal/servidor. Tem como vantagem o espelhamento de tela e a comunicação instantânea|
 |![](https://i.imgur.com/65LeZj5.png)| **Teams** feito pela microsoft, este aplicativo torna possíveis reuniões, compartilhamento de conteúdo, gravação de apresentação dentre outros. Por ser uma das plataformas oficiais de comunicação entre docentes e discente da Universidade de Brasília, foi escolhido para reuniões entre o grupo e mentores|
+|![](https://i.imgur.com/8UypYF1.png)| **Github** é uma ferramenta para gerenciamento de projetos e versões de códigos, também funciona como rede social para desenvolvedores. É uma opção para trabalhar colaborativamente controlando as versões do projeto. Escolhida para manter o projeto como um todo. |
