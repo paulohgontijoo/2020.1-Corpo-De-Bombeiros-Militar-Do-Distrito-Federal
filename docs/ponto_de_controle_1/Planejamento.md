@@ -8,7 +8,7 @@
 
 ## 1. Cronograma
 
-O cronograma foi formulado com base no plano de ensino, de acordo com os artefatos exigidos para cada ponto de controle. 
+O cronograma foi formulado com base no plano de ensino, de acordo com os artefatos exigidos para cada ponto de controle. O grupo não definiu datas específicas para cada atividade devido ao processo de interação escolhido.
 
 |PC 1|PC 2|PC 3|PC 4|PC 5|PC 6| Entrega Final|
 |-------|-------|-------|-------|-------|-------|-|
@@ -17,7 +17,7 @@ O cronograma foi formulado com base no plano de ensino, de acordo com os artefat
 |Processo de Design| |Guia de estilo| análise de tarefas| protótipo de papel|
 |Definição do site a ser trabalhado| |
 
-Documento sujeito a modificações
+Documento sujeito a modificações.
 
 ## 2. Heatmap
 
