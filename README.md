@@ -1,4 +1,4 @@
-# CBMDF - Corpo de Bombeiros Militar Do Distrito Federal
+# Corpo de Bombeiros Militar Do Distrito Federal - CBMDF
 
 ## Sobre o projeto
 
