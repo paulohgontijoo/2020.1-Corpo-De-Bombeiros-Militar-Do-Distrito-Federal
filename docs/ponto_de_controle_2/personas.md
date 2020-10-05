@@ -4,7 +4,7 @@
 
 |data|Versão|Descrição|Autor|
 |----|------|---------|-----|
-|04.10.2020|0.1|Criação do planejamento do projeto + Cronograma de atividades| Victor Amaral
+|04.10.2020|0.1| Criacao do documento | Victor Amaral
 
 # 1. Introducao
 Para cada papel de usuário deve ser criado ao menos uma persona formando um elenco de personas para o projeto que consiste entre 3 a 12 personas distintas. Cada elenco de personas possui ao menos uma persona primária, porém a recomendação que haja pelo menos 3 personas primárias no elenco de personas.

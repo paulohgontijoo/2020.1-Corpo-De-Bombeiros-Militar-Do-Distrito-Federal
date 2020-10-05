@@ -10,6 +10,7 @@ nav:
     - Personas: ponto_de_controle_2/personas.md
     - Perfil de usuario: ponto_de_controle_2/perfil_de_usuários.md
     - Analise de Tarefas: ponto_de_controle_2/analise_tarefas.md
+    - Apresentacao: ponto_de_controle_2/apresentacao_pc2.md
 theme:
   name: material
   custom_dir: docs/images
