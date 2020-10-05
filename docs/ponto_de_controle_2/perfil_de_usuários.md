@@ -26,7 +26,8 @@ Foram defindos os perfis A e B através do questionário, conforme tabela abaixo
 O perfil A se trata do maior público-alvo do site, que é o mais abordado no questionário, já o perfil B se trata de possíveis usuários que não tiveram muito contato com o sistema o que fica claro com a funcionalidade mais acessada. Vale ressaltar que a "dificuldade em acessar a funcionalidade" pode estar tendenciosa pois o campo estava obrigatório e quem respondeu nenhuma, em sua maioria, respondeu que não tinha dificuldade.
 
 ## Questionário
-[](https://i.imgur.com/u5YCAj3.png)
+
+![](https://i.imgur.com/u5YCAj3.png)
 
 ## Entrevista
 ### Entrevistado 1
