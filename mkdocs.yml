@@ -9,30 +9,14 @@ nav:
   - Ponto de controle 2:
     - Personas: ponto_de_controle_2/personas.md
     - Perfil de usuario: ponto_de_controle_2/perfil_de_usuários.md
+    - Analise de Tarefas: ponto_de_controle_2/analise_tarefas.md
 theme:
-  name: null
+  name: material
   custom_dir: docs/images
   language: pt
   palette:
     scheme: default
-    primary: indigo
-    accent: light blue
+    primary: red
+    accent: deep orange
   font:
     text: Roboto
-  icon: 
-    logo: docs/images
-    repo: fontawesome/brands/github
-  favicon: images/ícone.jpg
-  features:
-    - instant
-  extra:
-    - icon: fontawesome/brands/github
-      link: https://github.com/Requisitos-de-Software/2020.1-Corpo-De-Bombeiros-Militar-Do-Distrito-Federal
-plugins:
-  - search:
-      separator: '[\s\-\.]+'
-repo_url: https://github.com/Requisitos-de-Software/2020.1-Corpo-De-Bombeiros-Militar-Do-Distrito-Federal
-markdown_extensions:
-  - toc:
-      permalink: false
-edit_uri: ""
