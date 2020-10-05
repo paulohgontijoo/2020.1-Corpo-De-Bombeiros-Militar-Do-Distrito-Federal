@@ -1,8 +1,17 @@
 ## Personas
 
+## Histórico de versão
+
+|data|Versão|Descrição|Autor|
+|----|------|---------|-----|
+|20.09.2020|0.1|Criação do planejamento do projeto + Cronograma de atividades| Victor Amaral
+
+# 1. Introducao
 Para cada papel de usuário deve ser criado ao menos uma persona formando um elenco de personas para o projeto que consiste entre 3 a 12 personas distintas. Cada elenco de personas possui ao menos uma persona primária, porém a recomendação que haja pelo menos 3 personas primárias no elenco de personas.
 
 O elenco de personas pode ser complemntado por personas secundárias, que são demais stackholders envolvidos, mas que não é o público alvo da interface e anti-personas, que são aqueles para quem a interface não é projetada.
+
+# 2. Personas
 
 # PERSONA 1: Primária
 Emiliano Silva, Bombeiro aposentado, 50 anos. 
