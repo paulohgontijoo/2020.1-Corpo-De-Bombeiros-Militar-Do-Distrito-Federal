@@ -1,0 +1,35 @@
+site_name: CBM-DF
+nav:
+  - Home: index.md
+  - Planejamento: ponto_de_controle_1/Planejamento.md
+  - Ponto de controle 1:
+    - Processos de Design: ponto_de_controle_1/Processo_de_Design.md
+    - Ferramentas utilizadas: ponto_de_controle_1/ferramentas_utilizadas.md
+    - Sites analisados: ponto_de_controle_1/sites_analisados.md
+theme:
+  name: null
+  custom_dir: docs/images
+  language: pt
+  palette:
+    scheme: default
+    primary: indigo
+    accent: light blue
+  font:
+    text: Roboto
+  icon: 
+    logo: docs/images
+    repo: fontawesome/brands/github
+  favicon: images/ícone.jpg
+  features:
+    - instant
+  extra:
+    - icon: fontawesome/brands/github
+      link: https://github.com/Requisitos-de-Software/2020.1-Corpo-De-Bombeiros-Militar-Do-Distrito-Federal
+plugins:
+  - search:
+      separator: '[\s\-\.]+'
+repo_url: https://github.com/Requisitos-de-Software/2020.1-Corpo-De-Bombeiros-Militar-Do-Distrito-Federal
+markdown_extensions:
+  - toc:
+      permalink: false
+edit_uri: ""
