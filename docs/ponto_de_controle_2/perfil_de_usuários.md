@@ -63,15 +63,23 @@ Sim, pois a princípio não encontrava os links necessários.
 ### Entrevistado 2
 
 **Qual seu nome?**
+Ailton Cerqueira da Silva
 
 **Qual sua idade?**
+49 anos
 
 **Qual sua profissão?**
+Bombeiro Militar Aposentado
 
 **Quando você ainda era ativo, com que frequência e com quais propósitos você utilizava o site?**
+Todos os dias no trabalho ou em casa. Utilizava para fazer requerimentos, pedidos de licenças, consultas de dados, leitura de boletins ostensivos, pesquisa de portarias e leis referentes ao CBMDF, acessos a links externos, acesso ao email corporativo, marcação de consultas. Praticamente todo o serviço administrativo era pelo site.
+
 
 **Quais as áreas do site que você mais acessava?**
+Leitura dos boletins diários e serviço relacionado a gestão de pessoal.
 
 **Qual sua opinião sobre o site (estrutura, design)?**
+Acho bem estruturado e de fácil utilização. Mas poderia melhorar alguns aspectos em relação a consultas de leis e portarias externas ao CBMDF
 
 **Você tinha alguma dificuldade em relação ao acesso do site?**
+Sem nenhuma dificuldade em acessar ou utilizar o site.
