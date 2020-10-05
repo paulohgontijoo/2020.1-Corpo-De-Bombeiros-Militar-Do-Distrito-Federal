@@ -6,6 +6,9 @@ nav:
     - Processos de Design: ponto_de_controle_1/Processo_de_Design.md
     - Ferramentas utilizadas: ponto_de_controle_1/ferramentas_utilizadas.md
     - Sites analisados: ponto_de_controle_1/sites_analisados.md
+  - Ponto de controle 2:
+    - Personas: ponto_de_controle_2/personas.md
+    - Perfil de usuario: ponto_de_controle_2/perfil_de_usuários.md
 theme:
   name: null
   custom_dir: docs/images
