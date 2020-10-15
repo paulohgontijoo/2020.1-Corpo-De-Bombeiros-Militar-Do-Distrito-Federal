@@ -14,7 +14,9 @@ nav:
     - Apresentacao: ponto_de_controle_2/apresentacao_pc2.md
   - Ponto de controle 3:
       - Principios e diretrizes: ponto_de_controle_3/Principios_diretrizes.md
+      - Caracteristicas da Plataforma: ponto_de_controle_3/caracteristica_plataforma.md
       - Metas de Usabilidade: ponto_de_controle_3/metas_usabilidade.md
+      - Guia de estilos: ponto_de_controle_3/Guia_Estilo.md
 theme:
   name: material
   custom_dir: docs/images
