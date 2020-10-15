@@ -17,6 +17,7 @@ nav:
       - Caracteristicas da Plataforma: ponto_de_controle_3/caracteristica_plataforma.md
       - Metas de Usabilidade: ponto_de_controle_3/metas_usabilidade.md
       - Guia de estilos: ponto_de_controle_3/Guia_Estilo.md
+      - Apresentacao: ponto_de_controle_3/apresentacao_pc3.md
 theme:
   name: material
   custom_dir: docs/images
