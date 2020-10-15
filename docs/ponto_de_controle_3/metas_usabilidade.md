@@ -7,17 +7,18 @@
 ## 1. Introducao
 
 A usabilidade visa a assegurar que produtos interativos sejam fáceis de aprender a usar, eficazes e agradáveis – na perspectiva do usuário. Isso implica otimizar as interações estabelecidas pelas pessoas com produtos interativos. Mais especificamente, a usabilidade é dividida nas seguintes metas:
-• Ser eficaz no uso (eficácia).
 
-• Ser eficiente no uso (eficiência).
+* Ser eficaz no uso (eficácia).
 
-• Ser segura no uso (segurança).
+* Ser eficiente no uso (eficiência).
 
-• Ter boa utilidade (utilidade).
+* Ser segura no uso (segurança).
 
-• Ser fácil de aprender (learnability).
+* Ter boa utilidade (utilidade).
 
-• Ser fácil de lembrar como usar (memorability).
+* Ser fácil de aprender (learnability).
+
+* Ser fácil de lembrar como usar (memorability).
 
 ## 2. Metas
 
@@ -50,31 +51,31 @@ A capacidade de memorização (memorability) refere-se à facilidade de lembrar 
 Para concluir os objetivos a serem alcançados dentro do projeto, foram definidas as seguintes metas de usabilidade para cada tópico:
 
 ### 3.1 - Eficácia 
-O sistema atende ao seu propósito?
+* O sistema atende ao seu propósito?
 
 O produto tem diferentes propósito para cada tipo de usuário, para cada um deles, o site entrega de uma maneira desestruturada a resposta esperada. Com isso em foco, pretende-se melhorar a resposta do site em alguns links e deixa-lo mais intuitivo para o usuário.
 
 ### 3.2 - Eficiência
-O produto permite que as pessoas aprendam, realizem seu trabalho de forma eficiente, acessem a informação de que necessitam?
+* O produto permite que as pessoas aprendam, realizem seu trabalho de forma eficiente, acessem a informação de que necessitam?
 
 Atualmente o produto tem uma resposta lenta, com páginas e links irresponsivos, atrasando o acesso do usuário para com as tarefas que ele pretende realizar. Nosso foco está relacionado a otimização do site, tornando o desing dele menos poluído e retirando o que julgamos não ser necessário para o propósito geral do site.
 
 ### 3.3 - Segurança
-Qual é a gama de erros possíveis ao se utilizar o produto e quais as medidas que o produto permite que o usuário tome para corrigir os erros facilmente?
+* Qual é a gama de erros possíveis ao se utilizar o produto e quais as medidas que o produto permite que o usuário tome para corrigir os erros facilmente?
     
 Na fase inicial do site, todos os requerimentos feitos pelo usuário necessitam de uma dupla confirmação, por já possuir previamente os serviços de segurança, desde a proteção de dados até ao evitar ações indesejadas por parte do usuário, não precisaremos nos aprofundar nesse tópico do projeto.
 
 ### 3.4 - Utilidade
-O produto fornece um conjunto adequado de funções que permitam aos usuários realizar todas as suas tarefas da maneira que desejam?
+* O produto fornece um conjunto adequado de funções que permitam aos usuários realizar todas as suas tarefas da maneira que desejam?
 
 Como citado anteriormente observa-se no site escolhido, muitos erros relacionados à links irresponsivos, procuramos então modificar algumas abordagens na geração de documentos da página.
 
 ### 3.5 - Learnability
-O usuário saberá como usar o produto explorando a interface e experimentando determinadas ações? Será difícil aprender todo o conjunto de funções dessa maneira?
+* O usuário saberá como usar o produto explorando a interface e experimentando determinadas ações? Será difícil aprender todo o conjunto de funções dessa maneira?
 
 Atualmente o maior problema do site é seu design antiquado e poluído (muitas imagens na tela inicial e excesso de menus), o site apresenta muitos links quebrados ou que  não deveriam existir. O maior objetivo da reestruturação do site é deixá-lo mais intuitivo para o usuário, facilitando aos novos usuários o aprendizado dentro da plataforma.
 
 ### 3.6 - Memorability
-Que tipos de suporte de interface foram fornecidos com o objetivo de ajudar os usuários a lembrarem como realizar as tarefas, especialmente para produtos e operações que são utilizados com pouca frequência?
+* Que tipos de suporte de interface foram fornecidos com o objetivo de ajudar os usuários a lembrarem como realizar as tarefas, especialmente para produtos e operações que são utilizados com pouca frequência?
 
 A reformulacao do site para um design mais intuitivo, em que o usuário memorize mais facilmente as operações que efetua de maneira menos frequente.
