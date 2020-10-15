@@ -48,7 +48,7 @@ seguintes tópicos:
 ## 2. Análise dos principios e diretrizes dentro do escopo do projeto
 
 | Princípios | Viola alguma diretriz? | Descrição | 
-| -------- | -------- | -------- | -------- |
+| -------- | -------- | --------|
 | Correspondência com as expectativa dos usuários | Sim | O site não permite a submissão dos formulários disponibilizados, além disso alguns desses formulários são disponibilizados para o usuário em links externos, enquanto poderiam ser disponibilizados na própria página do formulário no site. Importante ressaltar também que a maioria desses links estão quebrados. O site exibe |
 | Equilíbrio entre Controle e Liberdade do Usuário | Sim | O usuário acessa o DCIP e desiste do acesso, porém não existe opção de voltar. |
 | Simplicidade nas Estruturas das Tarefas | Sim | O site apresenta formulários de submissão mas não apresenta local para que tal atividade seja executada  |
