@@ -2,6 +2,7 @@
 | Data | Descrição | Versão | Autores |
 | -------- | -------- | -------- | -------- |
 | 14/10/2020 | Criacao do documento | 0.1 | Victor Amaral |
+| 14/10/2020 | Atualizacao de documento | 0.2 | Victor Amaral e Lucas Kishima |
 
 ## 1. Introducao
 
@@ -72,7 +73,7 @@ Como citado anteriormente observa-se no site escolhido, muitos erros relacionado
 ### 3.5 - Learnability
 O usuário saberá como usar o produto explorando a interface e experimentando determinadas ações? Será difícil aprender todo o conjunto de funções dessa maneira?
 
-Atualmente o maior problema do site é seu design antiquado e poluido, o site apresenta muitos links quebrados, irresponsivos ou que simplesmente não deveriam existir. O maior objetivo da reestruturação do site é deixá-lo mais intuitivo para o usuário, facilitando aos novos usuários o aprendizado dentro da plataforma.
+Atualmente o maior problema do site é seu design antiquado e poluido, o site apresenta muitos links quebrados ou que simplesmente não deveriam existir. O maior objetivo da reestruturação do site é deixá-lo mais intuitivo para o usuário, facilitando aos novos usuários o aprendizado dentro da plataforma.
 
 ### 3.6 - Memorability
 Que tipos de suporte de interface foram fornecidos com o objetivo de ajudar os usuários a lembrarem como realizar as tarefas, especialmente para produtos e operações que são utilizados com pouca frequência?
