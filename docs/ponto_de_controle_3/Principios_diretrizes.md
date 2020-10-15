@@ -49,11 +49,11 @@ seguintes tópicos:
 
 | Princípios | Viola alguma diretriz? | Descrição | 
 | -------- | -------- | --------|
-| Correspondência com as expectativa dos usuários | Sim | O site não permite a submissão dos formulários disponibilizados, além disso alguns desses formulários são disponibilizados para o usuário em links externos, enquanto poderiam ser disponibilizados na própria página do formulário no site. Importante ressaltar também que a maioria desses links estão quebrados. O site exibe |
+| Correspondência com as expectativa dos usuários | Sim | O site não permite a submissão dos formulários disponibilizados, além disso alguns desses formulários são disponibilizados para o usuário em links externos, enquanto poderiam ser disponibilizados na própria página do formulário no site. Importante ressaltar também que a maioria desses links estão quebrados. |
 | Equilíbrio entre Controle e Liberdade do Usuário | Sim | O usuário acessa o DCIP e desiste do acesso, porém não existe opção de voltar. |
 | Simplicidade nas Estruturas das Tarefas | Sim | O site apresenta formulários de submissão mas não apresenta local para que tal atividade seja executada  |
 |Antecipação|Sim|Não existe aba em evidência a fim de direcionar o usuário para a realização de alguma tarefa|
-|Promovendo a eficiência do Usuário|Sim|Várias rotas presentes no site, redirecionam para âmbitos fora do seu esco|
+|Promovendo a eficiência do Usuário|Sim|Várias rotas presentes no site, redirecionam para âmbitos fora do seu escopo|
 |Consistência e Padronização|Sim| No menu ocorre uma mudança de cor dependendo da funcionalidade; Existem links com nomes diferentes para a mesma funcionalidade; Estruturação do menu principal diferente para submenus. |
 |Visibilidade e Reconhecimento| Sim | Localização do local de login confusa, precisa de maior destaque; |
 |Conteúdo Relevante e Expressão Adequada|Sim| Excesso de informações não relevantes. Excesso de informações sobre o na hora, um link para instituição seria suficiente; O site informa quantas vezes o documento foi baixado. |
