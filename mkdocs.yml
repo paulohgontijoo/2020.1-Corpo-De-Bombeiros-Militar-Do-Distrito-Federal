@@ -15,14 +15,15 @@ nav:
   - Perfil de Usuário:
       - Perfil de usuario: ponto_de_controle_2/perfil_de_usuários.md
       - Personas: ponto_de_controle_2/personas.md
-  -Design, Avaliação e Desenvolvimento:
+  - Design, Avaliação e Desenvolvimento:
       - Processos de Design: ponto_de_controle_1/Processo_de_Design.md
-  -Avaliação:
+  - Avaliação:
       - Planejamento de Avaliação: ponto_de_controle_4/planejamento_avaliacao.md
   - Apresentações:
       - Ponto de controle 1: ponto_de_controle_1/apresentacao_pc1.md
-      - Ponto de controle 2: ponto_de_controle_1/apresentacao_pc2.md
-      - Ponto de controle 3: ponto_de_controle_1/apresentacao_pc3.md
+      - Ponto de controle 2: ponto_de_controle_2/apresentacao_pc2.md
+      - Ponto de controle 3: ponto_de_controle_3/apresentacao_pc3.md
+      - Ponto de controle 4: ponto_de_controle_4/apresentacao_pc4.md
 theme:
   name: material
   custom_dir: docs/images
