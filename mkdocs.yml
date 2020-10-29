@@ -1,27 +1,28 @@
 site_name: CBM-DF
 nav:
   - Home: index.md
-  - Planejamento: ponto_de_controle_1/Planejamento.md
-  - Ponto de controle 1:
-    - Processos de Design: ponto_de_controle_1/Processo_de_Design.md
-    - Ferramentas utilizadas: ponto_de_controle_1/ferramentas_utilizadas.md
-    - Sites analisados: ponto_de_controle_1/sites_analisados.md
-    - Apresentacao: ponto_de_controle_1/apresentacao_pc1.md
-  - Ponto de controle 2:
-    - Personas: ponto_de_controle_2/personas.md
-    - Perfil de usuario: ponto_de_controle_2/perfil_de_usuários.md
-    - Analise de Tarefas: ponto_de_controle_2/analise_tarefas.md
-    - Apresentacao: ponto_de_controle_2/apresentacao_pc2.md
-  - Ponto de controle 3:
-      - Principios e diretrizes: ponto_de_controle_3/Principios_diretrizes.md
-      - Caracteristicas da Plataforma: ponto_de_controle_3/caracteristica_plataforma.md
-      - Metas de Usabilidade: ponto_de_controle_3/metas_usabilidade.md
+  - Planejamento: 
+      - Planejamento Inicial: ponto_de_controle_1/Planejamento.md
+      - Ferramentas utilizadas: ponto_de_controle_1/ferramentas_utilizadas.md
+  - Análise de Requisitos:
       - Guia de estilos: ponto_de_controle_3/Guia_Estilo.md
-      - Apresentacao: ponto_de_controle_3/apresentacao_pc3.md
-  - Ponto de controle 4:
-      - Planejamento de Avaliação: ponto_de_controle_4/planejamento_avaliacao.md
+      - Analise de Tarefas: ponto_de_controle_2/analise_tarefas.md
       - Análise de Tarefas V2.: ponto_de_controle_4/analise_de_tarefas_v2.md
       - StoryBoard: ponto_de_controle_4/storyboard.md
+      - Caracteristicas da Plataforma: ponto_de_controle_3/caracteristica_plataforma.md
+      - Principios e diretrizes: ponto_de_controle_3/Principios_diretrizes.md
+      - Metas de Usabilidade: ponto_de_controle_3/metas_usabilidade.md
+  - Perfil de Usuário:
+      - Perfil de usuario: ponto_de_controle_2/perfil_de_usuários.md
+      - Personas: ponto_de_controle_2/personas.md
+  -Design, Avaliação e Desenvolvimento:
+      - Processos de Design: ponto_de_controle_1/Processo_de_Design.md
+  -Avaliação:
+      - Planejamento de Avaliação: ponto_de_controle_4/planejamento_avaliacao.md
+  - Apresentações:
+      - Ponto de controle 1: ponto_de_controle_1/apresentacao_pc1.md
+      - Ponto de controle 2: ponto_de_controle_1/apresentacao_pc2.md
+      - Ponto de controle 3: ponto_de_controle_1/apresentacao_pc3.md
 theme:
   name: material
   custom_dir: docs/images
