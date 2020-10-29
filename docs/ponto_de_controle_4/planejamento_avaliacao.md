@@ -7,6 +7,7 @@
 | 29/10/2020 | Início do Documento | 0.1 | Tâmara Barbosa |
 | 29/10/2020 | Metodologia e Desenvolvimento | 0.2 | Tâmara Barbosa |
 | 29/10/2020 | Link do Grupo Focal | 0.3 | Tâmara Barbosa |
+| 29/10/2020 | Tabelacao da entrevista | 0.4 | Victor Amaral |
 
 ## Introdução
 Em momentos anteriores foram realizadas análises das tarefas que são definidas em termos dos objetivos que os usuários querem ou precisam atingir.
@@ -55,37 +56,28 @@ Enfim, tendo sido orientado quanto ao teor de todo o aqui mencionado e compreend
 
 #### Execução
 
-**Entrevistado 1**
-1. Qual seu nome?
-Deividson Martins.
-2. Qual sua idade?
-29 anos.
-3. Qual sua profissão?
-Bombeiro.
-4. Com que frequência e com quais propósitos você utiliza o site?
-Pelo menos 2 vezes na semana, para fins profissionais.
-5. Quais as áreas do site que você mais acessa?
-Notícia, ressarcimento.
-6. Qual sua opinião sobre o site (estrutura, design)?
-Pode ser melhorado
-7. Você tinha alguma dificuldade em relação ao acesso do site?
-Sim, pois a princípio não encontrava os links necessários.
+##### Entrevistado 1
 
-**Entrevistado 2**
-1. Qual seu nome? 
-Ailton Cerqueira da Silva
-2. Qual sua idade? 
-49 anos
-3. Qual sua profissão? 
-Bombeiro Militar Aposentado
-4. Quando você ainda era ativo, com que frequência e com quais propósitos você utilizava o site? 
-Todos os dias no trabalho ou em casa. Utilizava para fazer requerimentos, pedidos de licenças, consultas de dados, leitura de boletins ostensivos, pesquisa de portarias e leis referentes ao CBMDF, acessos a links externos, acesso ao email corporativo, marcação de consultas. Praticamente todo o serviço administrativo era pelo site.
-5. Quais as áreas do site que você mais acessava? 
-Leitura dos boletins diários e serviço relacionado a gestão de pessoal.
-6. Qual sua opinião sobre o site (estrutura, design)? 
-Acho bem estruturado e de fácil utilização. Mas poderia melhorar alguns aspectos em relação a consultas de leis e portarias externas ao CBMDF
-7. Você tinha alguma dificuldade em relação ao acesso do site? 
-Sem nenhuma dificuldade em acessar ou utilizar o site.
+| Pergunta | Resposta |
+| - | - |
+| Qual seu nome? | Deividson Martins | 
+| Qual sua idade? | 29 anos |
+| Qual sua profissão? |Bombeiro |
+| Com que frequência e com quais propósitos você utiliza o site? | Pelo menos 2 vezes na semana, para fins profissionais |
+| Quais as áreas do site que você mais acessa? | Notícia, ressarcimento |
+| Qual sua opinião sobre o site (estrutura, design)? | Pode ser melhorado |
+| Você tinha alguma dificuldade em relação ao acesso do site? | Sim, pois a princípio não encontrava os links necessários |
+
+##### Entrevistado 2
+| Pergunta | Resposta |
+| - | - |
+| Qual seu nome? | Ailton Cerqueira da Silva |
+| Qual sua idade? | 49 anos |
+| Qual sua profissão? | Bombeiro Militar Aposentado |
+| Quando você ainda era ativo, com que frequência e com quais propósitos você utilizava o site? | Todos os dias no trabalho ou em casa. Utilizava para fazer requerimentos, pedidos de licenças, consultas de dados, leitura de boletins ostensivos, pesquisa de portarias e leis referentes ao CBMDF, acessos a links externos, acesso ao email corporativo, marcação de consultas. Praticamente todo o serviço administrativo era pelo site. |
+| Quais as áreas do site que você mais acessava? | Leitura dos boletins diários e serviço relacionado a gestão de pessoal. |
+| Qual sua opinião sobre o site (estrutura, design)? | Acho bem estruturado e de fácil utilização. Mas poderia melhorar alguns aspectos em relação a consultas de leis e portarias externas ao CBMDF |
+| Você tinha alguma dificuldade em relação ao acesso do site? | Sem nenhuma dificuldade em acessar ou utilizar o site.|
 
 ### Grupo Focal
 #### Problema
