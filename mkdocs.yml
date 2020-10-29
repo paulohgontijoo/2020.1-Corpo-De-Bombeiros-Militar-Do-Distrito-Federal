@@ -19,6 +19,8 @@ nav:
       - Guia de estilos: ponto_de_controle_3/Guia_Estilo.md
       - Apresentacao: ponto_de_controle_3/apresentacao_pc3.md
   - Ponto de controle 4:
+      - Planejamento de Avaliação: ponto_de_controle_4/planejamento_avaliacao.md
+      - Análise de Tarefas V2.: ponto_de_controle_4/analise_de_tarefas_v2.md
       - StoryBoard: ponto_de_controle_4/storyboard.md
 theme:
   name: material
