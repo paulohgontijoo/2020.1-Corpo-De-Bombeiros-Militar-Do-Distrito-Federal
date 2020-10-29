@@ -18,6 +18,8 @@ nav:
       - Metas de Usabilidade: ponto_de_controle_3/metas_usabilidade.md
       - Guia de estilos: ponto_de_controle_3/Guia_Estilo.md
       - Apresentacao: ponto_de_controle_3/apresentacao_pc3.md
+  - Ponto de controle 4:
+      - StoryBoard: ponto_de_controle_4/storyboard.md
 theme:
   name: material
   custom_dir: docs/images
