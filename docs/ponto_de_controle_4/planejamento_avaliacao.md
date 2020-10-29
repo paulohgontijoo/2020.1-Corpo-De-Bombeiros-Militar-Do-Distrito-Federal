@@ -117,7 +117,7 @@ Enfim, tendo sido orientado quanto ao teor de todo o aqui mencionado e compreend
 
 #### Execução
 
-A realização do grupo focal está diponível no [link]().
+A realização do grupo focal está diponível no [link](https://youtu.be/GrT0OJ3cH9o).
 
 ### Protótipo de Papel
 #### Problema
