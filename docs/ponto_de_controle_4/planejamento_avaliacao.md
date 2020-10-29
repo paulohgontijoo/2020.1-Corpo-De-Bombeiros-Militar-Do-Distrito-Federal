@@ -92,7 +92,7 @@ Sem nenhuma dificuldade em acessar ou utilizar o site.
 A dificuldade de um cidadão comum (não bombeiro) em acessar o site do CBMDF.
 
 #### Grupo
-Devido a pandemia por COVID-19 o grupo de pessoas será menor que o recomendado: 5 cidadãos residentes no Distrito Federal e um integrante do grupo como observador.
+Devido a pandemia por COVID-19 o grupo de pessoas será menor que o recomendado: 4 cidadãos residentes no Distrito Federal e um integrante do grupo como observador.
 
 #### Pontos a serem abordados
 * Conforto em acessar o site.
