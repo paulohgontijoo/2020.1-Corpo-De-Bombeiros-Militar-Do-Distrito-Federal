@@ -8,6 +8,7 @@
 | 29/10/2020 | Adicionando Objetivo | 0.2 |Lucas Kishima |
 | 29/10/2020 | Adicionando novo fluxo de tarefas para o objetivo 3.1 | 0.3 |Lucas Kishima |
 | 29/10/2020 | Adicionando áreas de destaque para o objetivo 3.1 | 0.4 |Lucas Kishima |
+|29/10/2020|Atualizando documento, melhora dos objetivos 3.2 e 3.3 e adicionando novo fluxo de tarefas para objetivo 3.4|0.5|Paulo Gontijo, Daniel Oda|
 
 ## 1. Introdução
 
@@ -24,7 +25,7 @@ Anteriormente foi realizada uma análise de tarefas utilizando personas de inter
 
 ## 3. Objetivos:
 
-### 3.1 Solicitar uma análise de projeto para áreas acima de 3000m² afim de obter um alvará de construção.
+### 3.1 Solicitar uma análise de projeto para áreas acima de 3000m² afim de obter um alvará de construção
  
 #### Fluxo de tarefas:
 
@@ -40,7 +41,7 @@ Anteriormente foi realizada uma análise de tarefas utilizando personas de inter
     
 
 
-| tarefas | problemas e recomendações | 
+| Tarefas | problemas e recomendações | 
 | -------- | -------- |
 | 1- Abrir o site do corpo de bombeiros DF.    |  -  |
 | 2- selecionar a opção serviços no menu superior.    |  -  |
@@ -52,24 +53,61 @@ Anteriormente foi realizada uma análise de tarefas utilizando personas de inter
 
 
 
-### 3.2 Requirir alguns documentos para o seu programa de pensão.
+### 3.2 Acessar o DINAP (Diretoria de Inativos e Pensionistas)
 
-![](https://i.imgur.com/oWkeCxL.png)
+#### Fluxo de tarefas:
 
-| tarefas | Problemas e Recomendações | 
+![](https://i.imgur.com/acL03iN.png)
+
+#### Áreas de destaque:
+
+- Asterisco vermelho na Tarefa 4.1:
+    - O site disponibiliza um formulário online para preenchimento de Dados, mostrando que há no sistema essa funcionalidade. Isso seria extremamente útil em praticamente todas as tarefas que envolvem download e preenchimento de um documento, já que estas tarefas são executadas manualmente fora do sistema.
+
+- As tarefas destacadas em amarelo:
+    -  Todos os documentos são exibidos de uma só vez no menu superior abaixo da opção "Requerimentos", que se clicada não se obtem reposta do sistema. Poderia ser criada uma página "Requerimentos" onde o usuário poderia escolher o documento desejado de forma mais intuitiva. Essa exibição no menu superior é confusa.
+
+- As tarefas destacadas em vermelho:
+    - Essas tarefas são executadas fora do sistema, mas que poderiam ser ralizadas pelo mesmo, poupando o usuário de baixar o formulário, imprimir o formulário e de levar o formulário até um posto do na hora. Desta forma, as tarefas 5.2,5.3 e 5.4 poderiam ser reduzidas a apenas duas, preenchimento do formulário e envio da solicitação.
+
+| Tarefas | Problemas e Recomendações | 
 | -------- | -------- | 
-| 1 - Selecionar opção DINAP no menu superior.     |     |
-| 2 - Selecionar tipo de documento a ser requirido.|     |
-| 3 - Fazer download do documento.|     | 
+| 1 - Abrir o site do corpo de bombeiros DF |-    |
+| 2 - Clicar na opção DINAP no menu superior|-    |
+| 3 - Informações                           |-    |
+| 3.1 - Dúvidas Frequentes                  |-    |
+| 4 - Fale Conosco                          |-    |
+| 4.1 - Preenchimento de dados para contato |Único formulário online do site, ferramenta que seria útil em praticamente todas as tarefas|
+| 5 - Requerimentos                         |Essa opção no menu superior não faz nada, os documentos são todos exibidos abaixo dela|
+| 5.1 - Escolher documento desejado         |-    |
+| 5.2 - Download do documento desejado      |-    |
+| 5.3 - Imprimir e preencher documento      | Tarefa realizada fora do site, poderia ser feita no mesmo |
+| 5.4 - Apresentar documento preenchido no balcão do Na Hora      | Tarefa realizada fora do site, poderia ser feita no mesmo |
+
+- #### Observação:
+    - Em todas as páginas existe um botão para imprimir a página, funcionalidade sem utilidade que poderia ser excluída.
 
 
-### 3.3 Consultar a existência de novos boletins.
+### 3.3 Consultar a existência de novos boletins
 
 ![](https://i.imgur.com/rMsbY9v.png)
 
-| tarefas | Problemas e Recomendações | 
+| Tarefas | Problemas e Recomendações | 
 | -------- | -------- | 
-| 1 - Clicar em entrar no canto superior direito.     |     |
-| 2 - Realizar login com suas credenciais.|     |
-| 3 - Clicar no boletim desejado.|     |
-| 3 - Fazer download do arquivo pdf.|     | 
+| 1 - Clicar em entrar no canto superior direito.     |-    |
+| 2 - Realizar login com suas credenciais.|-     |
+| 3 - Clicar no boletim desejado.|-     |
+| 3 - Fazer download do arquivo pdf.|-     | 
+
+### 3.4 Solicitar perícia de incêndio
+
+![](https://i.imgur.com/KuGrQc9.png)
+
+|Tarefas|Problemas e Recomendações|
+|-------|-------------------------|
+|1 - Entrar no site: CBM-DF| |
+|2 - Acessar os serviços||
+|3 - Solicitar o serviço de "Perícia de incêndio"| O site disponibiliza informações para que a solicitação seja feita, porém, nenhum dos requisitos para a realização dessa tarefa é feita de forma online. Tal forma é ultrajada e não condiz com o cenário mundial. Se o serviço fosse solicitado de forma online, o contingente administrativo poderia se empenhar em tarefas mais importantes, custos seriam poupados de ambos lados, solicitante-servidor, além de uma maior eficiência na realização da tarefa.|
+
+
+
