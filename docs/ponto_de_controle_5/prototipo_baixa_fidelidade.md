@@ -1,5 +1,12 @@
 # Protótipo de Baixa Fidelidade - Planejamento
 
+## Histórico de versão
+|Data|Versão|Descrição|Autor|
+|:--:|:----:|:-------:|:---:|
+|10/11/2020|0.1|Criação do documento|Paulo Gontijo|
+|10/11/2020|0.2|Adicionando referências|Paulo Gontijo|
+|12/11/2020|0.3|Adicionando Execução do protótipo|Tâmara Barbosa|
+
 ## Introdução
 Ao se executar uma avaliação sobre um protótipo de baixa fidelidade, importantes métricas são geradas para que a equipe de desenvolvimento tenha dados para orientá-los na execução do projeto. Pensando nisso, planejou-se uma rotina detalhada de tarefas para que tal tarefa seja realizada.
 
@@ -63,14 +70,6 @@ As etapas da simulação de navegabilidade do site e do protótipo devem seguir 
 ![](https://i.imgur.com/7vw1JHZ.jpg)
 
 ---
-
-### Versionamento
-
-|Data|Versão|Descrição|Autor|
-|:--:|:----:|:-------:|:---:|
-|10/11/2020|0.1|Criação do documento|Paulo Gontijo|
-|10/11/2020|0.2|Adicionando referências|Paulo Gontijo|
-|12/11/2020|0.3|Adicionando Execução do protótipo|Tâmara Barbosa|
 
 ### Referencias
 
