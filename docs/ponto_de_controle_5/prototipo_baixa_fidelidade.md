@@ -71,6 +71,7 @@ As etapas da simulação de navegabilidade do site e do protótipo devem seguir 
 |10/11/2020|0.1|Criação do documento|Paulo Gontijo|
 |10/11/2020|0.2|Adicionando referências|Paulo Gontijo|
 |12/11/2020|0.3|Adicionando Execução do protótipo|Tâmara Barbosa|
+
 ### Referencias
 
 [Medium](https://medium.com/caiquefortunato/mis-m%C3%A9todo-de-inspe%C3%A7%C3%A3o-semi%C3%B3tica-e1b92db9c971#:~:text=O%20M%C3%A9todo%20de%20Inspe%C3%A7%C3%A3o%20Semi%C3%B3tica%20tem%20como%20objetivo%20identificar%20potenciais,seja%2C%20potenciais%20problemas%20de%20comunicabilidade.)

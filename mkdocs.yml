@@ -8,7 +8,6 @@ nav:
       - Guia de estilos: ponto_de_controle_3/Guia_Estilo.md
       - Analise de Tarefas: ponto_de_controle_2/analise_tarefas.md
       - Análise de Tarefas V2.: ponto_de_controle_4/analise_de_tarefas_v2.md
-      - StoryBoard: ponto_de_controle_4/storyboard.md
       - Caracteristicas da Plataforma: ponto_de_controle_3/caracteristica_plataforma.md
       - Principios e diretrizes: ponto_de_controle_3/Principios_diretrizes.md
       - Metas de Usabilidade: ponto_de_controle_3/metas_usabilidade.md
@@ -19,6 +18,12 @@ nav:
       - Processos de Design: ponto_de_controle_1/Processo_de_Design.md
   - Avaliação:
       - Planejamento de Avaliação: ponto_de_controle_4/planejamento_avaliacao.md
+      - StoryBoard: ponto_de_controle_4/storyboard.md
+  - Prototipacao:
+      - Planejamento prot. de papel: ponto_de_controle_5/prototipo_baixa_fidelidade.md
+  - Relatos:
+      - Storyboard: ponto_de_controle_5/RelatoStoryboard.md
+      - Analise de tarefas: ponto_de_controle_5/avaliacao_analise_de_tarefas.md
   - Apresentações:
       - Ponto de controle 1: ponto_de_controle_1/apresentacao_pc1.md
       - Ponto de controle 2: ponto_de_controle_2/apresentacao_pc2.md
