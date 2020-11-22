@@ -32,8 +32,8 @@ nav:
       - Ponto de controle 2: ponto_de_controle_2/apresentacao_pc2.md
       - Ponto de controle 3: ponto_de_controle_3/apresentacao_pc3.md
       - Ponto de controle 4: ponto_de_controle_4/apresentacao_pc4.md
-      - Ponto de controle 5: ponto_de_controle_4/apresentacao_pc5.md
-      - Ponto de controle 6: ponto_de_controle_4/apresentacao_pc6.md
+      - Ponto de controle 5: ponto_de_controle_5/apresentacao_pc5.md
+      - Ponto de controle 6: ponto_de_controle_6/apresentacao_pc6.md
       
 theme:
   name: material
