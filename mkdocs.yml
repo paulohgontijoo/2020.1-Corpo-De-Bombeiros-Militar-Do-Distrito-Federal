@@ -21,6 +21,9 @@ nav:
       - StoryBoard: ponto_de_controle_4/storyboard.md
   - Prototipacao:
       - Planejamento prot. de papel: ponto_de_controle_5/prototipo_baixa_fidelidade.md
+      - Avaliacao Prot. de Papel: ponto_de_controle_6/avaliacao_prototipo_papel.md
+      - Prototipo de Alta Fidelidade: ponto_de_controle_6/prototipo_de_alta_fidelidade.md
+      - Avaliacao Prot. de Alta Fidelidade: ponto_de_controle_6/Avaliacao_Alta_fidelidade.md
   - Relatos:
       - Storyboard: ponto_de_controle_5/RelatoStoryboard.md
       - Analise de tarefas: ponto_de_controle_5/avaliacao_analise_de_tarefas.md
@@ -29,6 +32,9 @@ nav:
       - Ponto de controle 2: ponto_de_controle_2/apresentacao_pc2.md
       - Ponto de controle 3: ponto_de_controle_3/apresentacao_pc3.md
       - Ponto de controle 4: ponto_de_controle_4/apresentacao_pc4.md
+      - Ponto de controle 5: ponto_de_controle_4/apresentacao_pc5.md
+      - Ponto de controle 6: ponto_de_controle_4/apresentacao_pc6.md
+      
 theme:
   name: material
   custom_dir: docs/images
