@@ -41,6 +41,6 @@ Fazer requerimento de perícia de incêndio:
 | - |
 |Visualmente, qual a sua primeira impressão ao utilizar o site?|
 |Teve dificuldade em executar alguma tarefa?
-Caso o protótipo fosse implementado, você iria preferir utilizar o protótipo ou o site original da Ali Express?|
+Caso o protótipo fosse implementado, você iria preferir utilizar o protótipo ou o site original?|
 |Dado esse novo protótipo você acredita que há algo a ser melhorado? Cite.|
 |Qual o seu nível de satisfação para esse protótipo? |
