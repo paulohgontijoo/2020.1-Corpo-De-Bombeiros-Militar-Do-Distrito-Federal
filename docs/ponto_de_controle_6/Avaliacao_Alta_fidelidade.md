@@ -18,7 +18,7 @@ O objetivo desta etapa de avaliação é realizar uma inspeção nas telas do pr
 
 Para a avaliação do protótipo de Alta Fidelidade, utilizaremos uma junção do percurso cognitivo e da avaliação através de inspeção, que tem como objetivo tentar prever possíveis consequências das decisões de design tomadas.
 
-# Planejamento
+# 4. Planejamento
 
 O avaliador deve fazer uma simulação utilizando o protótipo de alta fidelidade e o site original, essa avaliação se dará da mesma forma que foi o protótipo de baixa fidelidade, visto que abarca as funcionalidades que necessitam ser avaliadas, além de poder trazer um conforto ao usuários, caso sejam os mesmos, pois deverão desempenhar o mesmo papel feito anteriormente, porém com algo próximo do produto final esperado.
 
@@ -35,7 +35,7 @@ Fazer requerimento de perícia de incêndio:
 - Preencher o formulário
 - Enviar o formulário
 
-### Perguntas
+### 4.1 Perguntas
 
 | Pergunta |
 | - |
