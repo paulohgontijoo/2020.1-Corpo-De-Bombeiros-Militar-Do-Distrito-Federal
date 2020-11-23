@@ -9,4 +9,4 @@ Devido a pandemia causada pelo novo coronavírus, SARS-CoV2, a disciplina foi of
 
 # Apresentacao
 
-[Link para apresentacao](https://www.youtube.com/watch?v=VVx_-LyIVyI)
+[Link para apresentacao](https://www.youtube.com/watch?v=yFqH07v4wbw&feature=youtu.be)
