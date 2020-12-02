@@ -27,13 +27,13 @@ nav:
       - Planejamento Prot. de Alta Fidelidade: ponto_de_controle_6/Avaliacao_Alta_fidelidade.md
       - Prot. de Alta Fidelidade: ponto_de_controle_6/prototipo_de_alta_fidelidade.md
   - Apresentações:
-      - Ponto de controle 1: ponto_de_controle_1/apresentacao_pc1.md
-      - Ponto de controle 2: ponto_de_controle_2/apresentacao_pc2.md
-      - Ponto de controle 3: ponto_de_controle_3/apresentacao_pc3.md
-      - Ponto de controle 4: ponto_de_controle_4/apresentacao_pc4.md
-      - Ponto de controle 5: ponto_de_controle_5/apresentacao_pc5.md
-      - Ponto de controle 6: ponto_de_controle_6/apresentacao_pc6.md
-      - Ponto de controle 7: ponto_de_controle_6/apresentacao_pc6.md
+      - Ponto de controle 1: apresentacao/apresentacao_pc1.md
+      - Ponto de controle 2: apresentacao/apresentacao_pc2.md
+      - Ponto de controle 3: apresentacao/apresentacao_pc3.md
+      - Ponto de controle 4: apresentacao/apresentacao_pc4.md
+      - Ponto de controle 5: apresentacao/apresentacao_pc5.md
+      - Ponto de controle 6: apresentacao/apresentacao_pc6.md
+      - Ponto de controle 7: apresentacao/apresentacao_pc6.md
       
 theme:
   name: material
