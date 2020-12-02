@@ -1,32 +1,31 @@
 site_name: CBM-DF
 nav:
   - Home: index.md
-  - Planejamento: 
+  - Planejamento de Projeto: 
       - Planejamento Inicial: ponto_de_controle_1/Planejamento.md
       - Ferramentas utilizadas: ponto_de_controle_1/ferramentas_utilizadas.md
   - Análise de Requisitos:
-      - Guia de estilos: ponto_de_controle_3/Guia_Estilo.md
-      - Analise de Tarefas: ponto_de_controle_2/analise_tarefas.md
-      - Análise de Tarefas V2.: ponto_de_controle_4/analise_de_tarefas_v2.md
-      - Caracteristicas da Plataforma: ponto_de_controle_3/caracteristica_plataforma.md
-      - Principios e diretrizes: ponto_de_controle_3/Principios_diretrizes.md
-      - Metas de Usabilidade: ponto_de_controle_3/metas_usabilidade.md
-  - Perfil de Usuário:
-      - Perfil de usuario: ponto_de_controle_2/perfil_de_usuários.md
-      - Personas: ponto_de_controle_2/personas.md
-  - Design, Avaliação e Desenvolvimento:
-      - Processos de Design: ponto_de_controle_1/Processo_de_Design.md
-  - Avaliação:
       - Planejamento de Avaliação: ponto_de_controle_4/planejamento_avaliacao.md
-      - StoryBoard: ponto_de_controle_4/storyboard.md
-  - Prototipação:
+      - Processos de Design: ponto_de_controle_1/Processo_de_Design.md
+      - Perfil de usuario: ponto_de_controle_2/perfil_de_usuários.md
+      - Características da Plataforma: ponto_de_controle_3/caracteristica_plataforma.md
+      - Análise de Tarefas: ponto_de_controle_2/analise_tarefas.md
+      - Guia de Estilos: ponto_de_controle_3/Guia_Estilo.md
+      - Metas de Usabilidade: ponto_de_controle_3/metas_usabilidade.md
+      - Princípios e diretrizes: ponto_de_controle_3/Principios_diretrizes.md
+  - Design, Avaliação e Desenvolvimento:
+    - NÍVEL 1:
+      - Personas: ponto_de_controle_2/personas.md
+      - Planejamento da Avaliação - Análise de Tarefas: ponto_de_controle_5/avaliacao_analise_de_tarefas.md
+      - Planejamento StoryBoard: ponto_de_controle_4/storyboard.md
+      - Análise de Tarefas V2: ponto_de_controle_4/analise_de_tarefas_v2.md
+      - Storyboard: ponto_de_controle_5/RelatoStoryboard.md
+    - NÍVEL 2:
       - Planejamento prot. de papel: ponto_de_controle_5/prototipo_baixa_fidelidade.md
       - Avaliação Prot. de Papel: ponto_de_controle_6/avaliacao_prototipo_papel.md
+    - NÍVEL 3:
       - Planejamento Prot. de Alta Fidelidade: ponto_de_controle_6/Avaliacao_Alta_fidelidade.md
       - Prot. de Alta Fidelidade: ponto_de_controle_6/prototipo_de_alta_fidelidade.md
-  - Relatos:
-      - Storyboard: ponto_de_controle_5/RelatoStoryboard.md
-      - Analise de tarefas: ponto_de_controle_5/avaliacao_analise_de_tarefas.md
   - Apresentações:
       - Ponto de controle 1: ponto_de_controle_1/apresentacao_pc1.md
       - Ponto de controle 2: ponto_de_controle_2/apresentacao_pc2.md
@@ -34,6 +33,7 @@ nav:
       - Ponto de controle 4: ponto_de_controle_4/apresentacao_pc4.md
       - Ponto de controle 5: ponto_de_controle_5/apresentacao_pc5.md
       - Ponto de controle 6: ponto_de_controle_6/apresentacao_pc6.md
+      - Ponto de controle 7: ponto_de_controle_6/apresentacao_pc6.md
       
 theme:
   name: material
