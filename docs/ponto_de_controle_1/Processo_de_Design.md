@@ -8,6 +8,7 @@
 | 20/09/2020 | Introdução | 0.2 |Paulo Gontijo |
 | 20/09/2020 | Justificativa | 0.3 | Daniel Oda |
 | 20/09/2020 | Etapas | 0.4 | Daniel Oda e Lucas Kishima |
+| 01/12/2020 | Adição do ciclo de Mayhew | 0.5 | Tâmara Barbosa |
 
 ## 1. Introdução
 O Design pode ser compreendido como um processo, ou ciência, para solucionar um determinado problema — seja ele qual for — por meio da manipulação de atributos visuais. É a concepção de um produto no que se refere a forma física e funcionalidade.
@@ -27,6 +28,8 @@ O design thinking foi escolhido por ser uma abordagem que busca a solução de p
 ## 3. Etapas
 
 O Design thinking encoraja que suas etapas não sejam seguidas linearmente, as fases do processo podem ser puladas e repetidas conforme o entendimento dos requisitos, artefatos e necessidades das pessoas de interesse sejam aprimorados. Dessa forma o processo não fica engessado e a solução se torna mais adequada às necessidades dos envolvidos.  
+
+Imagem 1: Design thinking
 
 ![](https://i.imgur.com/59O55j5.png)
 
@@ -52,6 +55,16 @@ A prototipagem permite que os designers expressem suas idéias de forma física,
 
 
 Os designers ou avaliadores testam rigorosamente o produto completo usando as melhores soluções identificadas durante a fase de prototipagem. Este é o estágio final do modelo de 5 estágios, mas em um processo iterativo, os resultados gerados durante a fase de teste são frequentemente usados para definir um ou mais problemas e informar sobre a compreensão dos usuários, as condições de uso, como as pessoas pensam, se comportam e se sentem, buscando sempre a empatia. Com isso, esse estágio pode mostrar possíveis alterações necessárias em outros estágios, tornando possível um retorno a alguma das etapas para uma melhor interpretação do problema ou da solução. O teste pode até revelar que o problema foi enquadrado incorretamente desde o início.
+
+### 3.6 Ciclo de vida de Mayhew (adaptado)
+
+Deborah Mayhew (1999) propôs um ciclo de vida para a engenharia de  usabilidade. Com uma visão holística, esse processo de design reúne e organiza diferentes atividades propostas na área de IHC para orientara trabalho do designer em direção a uma boa solução interativa (BARBOSA,2010). Como a disciplina de IHC foi projetada com base no ciclo de vida de Mayhew, a utilização do mesmo foi adotada em conjunto com o processo apresentado nos tópicos anteriores.
+
+Imagem 2: Ciclo de vida de Mayhew (adaptado)
+
+![](https://i.imgur.com/uyqX78U.png)
+
+__Fonte:__ Barbosa, 2010.
 
 ## 4. Bibliografia
 
