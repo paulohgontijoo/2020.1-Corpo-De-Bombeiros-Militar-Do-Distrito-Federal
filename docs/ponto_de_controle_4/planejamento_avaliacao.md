@@ -8,6 +8,7 @@
 | 29/10/2020 | Metodologia e Desenvolvimento | 0.2 | Tâmara Barbosa |
 | 29/10/2020 | Link do Grupo Focal | 0.3 | Tâmara Barbosa |
 | 29/10/2020 | Tabelacao da entrevista | 0.4 | Victor Amaral |
+| 01/12/2020 | Melhorias nas entrevistas | 0.5 | Tâmara Barbosa |
 
 ## Introdução
 Em momentos anteriores foram realizadas análises das tarefas que são definidas em termos dos objetivos que os usuários querem ou precisam atingir.
@@ -58,6 +59,8 @@ Enfim, tendo sido orientado quanto ao teor de todo o aqui mencionado e compreend
 
 ##### Entrevistado 1
 
+A entrevista foi realizada com um bombeiro ativo novo na cooporação a fim de obter a visão de quem está começando a utilizar o site pois existe uma curva de aprendizado para novos integrantes.
+
 | Pergunta | Resposta |
 | - | - |
 | Qual seu nome? | Deividson Martins | 
@@ -68,7 +71,12 @@ Enfim, tendo sido orientado quanto ao teor de todo o aqui mencionado e compreend
 | Qual sua opinião sobre o site (estrutura, design)? | Pode ser melhorado |
 | Você tinha alguma dificuldade em relação ao acesso do site? | Sim, pois a princípio não encontrava os links necessários |
 
+É possível perceber que o usuário demonstra dificuldades com os primeiros contatos no site.
+
 ##### Entrevistado 2
+
+A entrevista foi realizada com um bombeiro aposentado para obter dados de quem já utiliza o site a um certo tempo e como é a rotina utilizando o mesmo.
+
 | Pergunta | Resposta |
 | - | - |
 | Qual seu nome? | Ailton Cerqueira da Silva |
@@ -78,6 +86,8 @@ Enfim, tendo sido orientado quanto ao teor de todo o aqui mencionado e compreend
 | Quais as áreas do site que você mais acessava? | Leitura dos boletins diários e serviço relacionado a gestão de pessoal. |
 | Qual sua opinião sobre o site (estrutura, design)? | Acho bem estruturado e de fácil utilização. Mas poderia melhorar alguns aspectos em relação a consultas de leis e portarias externas ao CBMDF |
 | Você tinha alguma dificuldade em relação ao acesso do site? | Sem nenhuma dificuldade em acessar ou utilizar o site.|
+
+Percebe-se que com o tempop o oficial do bombeiro vai adiquirindo familiaridade com o site e algumas dificuldades vão sendo esquecidas, porém ainda existem melhorias a serem feitas.
 
 ### Grupo Focal
 #### Problema
@@ -110,13 +120,6 @@ Enfim, tendo sido orientado quanto ao teor de todo o aqui mencionado e compreend
 #### Execução
 
 A realização do grupo focal está diponível no [link](https://youtu.be/GrT0OJ3cH9o).
-
-### Protótipo de Papel
-#### Problema
-A visualização de uma proposta de site a baixo custo.
-
-#### Esboço das telas
-O eboço da tela se baseará no grid contido no [link](https://interacao-humano-computador.github.io/2020.1-Corpo-De-Bombeiros-Militar-Do-Distrito-Federal/ponto_de_controle_3/Guia_Estilo/#3-disposicao-do-grid) e será melhor retratado na próxima entrega.
 
 ## Conclusão
 Foi constatado que existem opiniões divergentes entre o site do CBMDF e estas servirão de insumo para a criação de protótipos e demais artefatos do projeto.
