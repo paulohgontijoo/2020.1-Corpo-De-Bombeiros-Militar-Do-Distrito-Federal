@@ -4,7 +4,8 @@
 
 | Data | Descrição | Versão | Autores |
 | -------- | -------- | -------- | -------- |
-| 22/11/2020 | Criando documento | 0.1 | Victor Amaral |
+| 22/11/2020 | Criação do documento | 0.1 | Victor Amaral |
+| 22/11/2020 | Refatoração do planejamento | 0.2 | Paulo Gontijo |
 
 # 1. Introdução
 
@@ -24,16 +25,31 @@ O avaliador deve fazer uma simulação utilizando o protótipo de alta fidelidad
 
 Fazer Login:
 
-- Entrar no site;
-- Criar uma conta;
+- Entrar no site
+- Criar uma conta
 - Entrar na conta que foi criada.
 
 Fazer requerimento de perícia de incêndio:
 
-- Entrar no site;
+- Entrar no site
+- Acessar a aba de serviços
 - Acessar a página do formulário de perícia de incêndio
 - Preencher o formulário
 - Enviar o formulário
+
+Obter informações oficiais
+
+- Entrar no site
+- Acessar a aba de utilidade
+- Escolher algum card
+
+Fazer requerimento de análises de projetos arquitetônicos
+
+- Entrar no site
+- Acessar a aba de serviços 
+- Acessar a página de requerimento de análises de projetos arquitetônicos
+- Preencher o requerimento
+- Enviar
 
 ### 4.1 Perguntas
 
